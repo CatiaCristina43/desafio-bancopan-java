@@ -4,7 +4,7 @@ Sites importantes para estudo
 
 ## Git Dowload
 
-[https://git-scm.com/download/win]
+https://git-scm.com/download/win
 
 ## Editor de Texto 
 
